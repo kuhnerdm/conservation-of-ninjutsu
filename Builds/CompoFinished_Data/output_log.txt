@@ -1,0 +1,45 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Conservation of Ninjutsu\Builds\CompoFinished_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.608531 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 0.155233 ms (FindLiveObjects: 0.017533 ms CreateObjectMapping: 0.008980 ms MarkObjects: 0.122304 ms  DeleteObjects: 0.005986 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.800969 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.184312 ms (FindLiveObjects: 0.017533 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.147963 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.878442 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.327572 ms (FindLiveObjects: 0.029079 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.276255 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.502476 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.464416 ms (FindLiveObjects: 0.040625 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.400270 ms  DeleteObjects: 0.007697 ms)
+
